@@ -31,4 +31,5 @@ def find_valid_calls(planeteer_calls)
   planeteer_calls.find do |string|
     string.length > 4
     
+    
 end
